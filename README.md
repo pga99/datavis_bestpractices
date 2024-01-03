@@ -11,6 +11,7 @@ A step by step improvement of a standard seaborn plot following common explanato
 
  All using seaborn and matplotlib. 
 
- Before
-
- After
+ *Before*
+![Before](before.png)
+*After*
+![After](after.png)

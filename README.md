@@ -15,3 +15,7 @@ A step by step improvement of a standard seaborn plot following common explanato
 ![Before](before.png)
 *After*
 ![After](after.png)
+
+The notebook is derived from content originally designed for a Data Science encounter at [Spiced Academy](https://www.spiced-academy.com/en/program/data-science)
+
+Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
